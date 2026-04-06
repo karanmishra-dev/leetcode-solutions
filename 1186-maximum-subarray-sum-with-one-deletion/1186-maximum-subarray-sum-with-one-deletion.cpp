@@ -8,12 +8,12 @@ public:
         for(int i=1;i<n;i++){
             int prev_nodelete=nodelete;
             int prev_onedelete=onedelete;
-            nodelete=max(nodelete+arr[i],arr[i]);
+            nodelete=max(prev_nodelete+arr[i],arr[i]);
             int v2;
             if(prev_onedelete==INT_MIN) v2=arr[i];
             else v2=prev_onedelete+arr[i];
-            onedelete=max(v2,prev_nodelete); 
-            ans=max(ans,max(onedelete,nodelete));
+            onedelete=max(v2,prev_nodelete);
+            ans=max(ans,max(nodelete,onedelete));
         }
         return ans;
     }
