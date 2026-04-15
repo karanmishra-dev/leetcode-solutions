@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -52,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
