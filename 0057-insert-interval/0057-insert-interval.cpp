@@ -1,18 +1,23 @@
-bool cmp(vector<int>&a,vector<int>&b){
-    return a[0]<b[0];
-}
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        intervals.push_back({newInterval[0],newInterval[1]});
-        sort(intervals.begin(),intervals.end(),cmp);
         int n=intervals.size();
+        vector<vector<int>>res;
+        bool insert=false;
+        for(int i=0;i<n;i++){
+            if(insert==false && intervals[i][0]>=newInterval[0]){
+                res.push_back(newInterval);
+                insert=true;
+            }
+            res.push_back({intervals[i][0],intervals[i][1]});
+        }
+        if(insert==false) res.push_back(newInterval);
         vector<vector<int>>ans;
-        int start1=intervals[0][0];
-        int end1=intervals[0][1];
-        for(int i=1;i<n;i++){
-            int start2=intervals[i][0];
-            int end2=intervals[i][1];
+        int start1=res[0][0];
+        int end1=res[0][1];
+        for(int i=1;i<res.size();i++){
+            int start2=res[i][0];
+            int end2=res[i][1];
             if(end1>=start2){
                 end1=max(end1,end2);
                 continue;
