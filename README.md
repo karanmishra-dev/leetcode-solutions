@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
