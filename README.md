@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
