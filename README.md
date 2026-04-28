@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
