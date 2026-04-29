@@ -14,16 +14,17 @@ public:
         if(head==NULL) return head;
         ListNode*a=head;
         ListNode*b=a->next;
-        while(a!=NULL){
-            if(b!=NULL && a->val==b->val){
+        while(b!=NULL){
+            if(a->val==b->val){
                 b=b->next;
             }
             else{
                 a->next=b;
                 a=b;
-                if(b!=NULL) b=b->next;
+                b=b->next;
             }
         }
+        a->next=NULL;
         return head;
     }
 };
