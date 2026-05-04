@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [3783-mirror-distance-of-an-integer](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
