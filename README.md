@@ -112,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
