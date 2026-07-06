@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
 | ------- |
