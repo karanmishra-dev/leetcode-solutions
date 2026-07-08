@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -173,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
