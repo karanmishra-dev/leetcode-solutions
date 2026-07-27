@@ -9,17 +9,15 @@ public:
                 break;
             }
         }
-        if(idx!=-1){
-            int i=idx;
-            int j=i+1;
-            while(i<n && j<n){
-                if(nums[i]==0 && nums[j]!=0){
-                    swap(nums[i],nums[j]);
-                    i++;
-                    j++;
-                }
-                else j++;
+        if(idx==-1) return;
+        int j=idx+1;
+        while(j<n){
+            if(nums[idx]==0 && nums[j]!=0){
+                swap(nums[idx],nums[j]);
+                idx++;
+                j++;
             }
+            else j++;
         }
     }
 };
