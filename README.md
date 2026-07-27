@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3783-mirror-distance-of-an-integer](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
