@@ -2,16 +2,20 @@ class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
         int n=nums.size();
-        vector<int>greater,smaller,equal;
+        int less=0,equal=0,greater;
         for(int x:nums){
-            if(x>pivot) greater.push_back(x);
-            else if(x<pivot) smaller.push_back(x);
-            else equal.push_back(x);
+            if(x<pivot) less++;
+            if(x==pivot) equal++;
         }
-        vector<int>ans;
-        for(int x:smaller) ans.push_back(x);
-        for(int x:equal) ans.push_back(x);
-        for(int x:greater) ans.push_back(x);
+        int i=0;
+        int j=less;
+        int k=less+equal;
+        vector<int>ans(n);
+        for(int x:nums){
+            if(x<pivot) ans[i++]=x;
+            else if(x==pivot) ans[j++]=x;
+            else ans[k++]=x;
+        }
         return ans;
     }
 };
