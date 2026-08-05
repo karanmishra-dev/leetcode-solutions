@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0877-stone-game) |
 | [3783-mirror-distance-of-an-integer](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -200,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/karanmishra-dev/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
