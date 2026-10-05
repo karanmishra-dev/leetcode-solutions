@@ -10,6 +10,6 @@ public:
             else if(sum<target) i++;
             else j--;
         }
-        return {};
+        return {0,0};
     }
 };
